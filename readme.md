@@ -87,7 +87,7 @@ Assuming you followed all the previou steps, Go back to github.com to your forke
 
 <img style="float: right;" src="assests/open_pull_request.png" alt="submit pull request" />
 
-- Soon our organization will merge all your changes into the main branch of this project. You will get a notification email once the changes have been successfully merged. Keep in mind that, this my take severl weeks to merge the change.
+- Soon our organization will merge all your changes into the main branch of this project. You will get a notification email once the changes have been successfully merged. Keep in mind that, this my take several weeks to merge the change.
 
 ## Conclusion: All Set! 🎉
 
