@@ -93,5 +93,5 @@ Assuming you followed all the previou steps, Go back to github.com to your forke
 
 You just finished the `fork 👉 clone 👉 edit 👉 pull` request workflow that you'll frequently experience as an open-source contributor!
 
-Share this repo with your friends and followers by going to [iservicweb global contribution](https://github.com/iservicweb-co/first-global-contribution).
+Share this repo with your friends and followers by going to [iservicweb global contribution](https://github.com/iservicweb/first-global-contribution).
 
