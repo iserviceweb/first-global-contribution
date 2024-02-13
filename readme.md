@@ -1,9 +1,9 @@
 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/iservicweb-co/first-global-contribution)
-# iservicweb Global Contribution
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/iserviceweb/first-global-contribution)
+# iserviceweb Global Contribution
 
-iservicweb's mission is to give everyone an equal opportunity to learn the skills to become a successful developer. Together we started this GitHub project to help demystify open-source contributions and help you make you're first global contribution. Begin by following each step below. Good Luck!
+iserviceweb's mission is to give everyone an equal opportunity to learn the skills to become a successful developer. Together we started this GitHub project to help demystify open-source contributions and help you make you're first global contribution. Begin by following each step below. Good Luck!
 ## Step one: Fork this repository
 
 
@@ -93,5 +93,5 @@ Assuming you followed all the previou steps, Go back to github.com to your forke
 
 You just finished the `fork 👉 clone 👉 edit 👉 pull` request workflow that you'll frequently experience as an open-source contributor!
 
-Share this repo with your friends and followers by going to [iservicweb global contribution](https://github.com/iservicweb/first-global-contribution).
+Share this repo with your friends and followers by going to [iserviceweb global contribution](https://github.com/iserviceweb/first-global-contribution).
 
