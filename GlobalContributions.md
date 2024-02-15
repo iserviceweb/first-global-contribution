@@ -2,7 +2,7 @@
 
 ## [Harshitha Sompura](https://github.com/h-sompura)
 
-## [Osvaldo](https://github.com/iosvaldo)
+## [os](https://github.com/web-based)
 
 ## [Ruth](https://github.com/Ruth7606)
 
